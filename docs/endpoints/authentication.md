@@ -23,6 +23,17 @@ POST /api/auth/login
 | username | string | username | :heavy_check_mark: |
 | password | string | password | :heavy_check_mark: |
 
+### Response
+
+```json
+Status: 200
+
+{
+  "username": "username",
+  "email": "email"
+}
+```
+
 <Example>
 
 <CURL>
