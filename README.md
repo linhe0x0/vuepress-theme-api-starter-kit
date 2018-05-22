@@ -50,3 +50,9 @@ yarn run theme:serve # OR npm run theme:serve
 ## Configuration
 
 See [vuepress-theme-api](https://github.com/sqrthree/vuepress-theme-api#vuepress-theme-api) to get more details.
+
+---
+
+> [sqrtthree.com](http://sqrtthree.com/) &nbsp;&middot;&nbsp;
+> GitHub [@sqrthree](https://github.com/sqrthree) &nbsp;&middot;&nbsp;
+> Twitter [@sqrtthree](https://twitter.com/sqrtthree)
