@@ -38,13 +38,13 @@ yarn global add vuepress-theme-api # OR npm install -g vuepress-theme-api
 echo '# Hello, World.' > docs/Hello.md
 
 # Start writing
-vuepress dev docs # OR yarn run theme:dev OR npm run theme:dev
+vuepress dev docs # OR yarn run docs:dev OR npm run docs:dev
 
 # Build to static files
-vuepress build docs # OR yarn run theme:build OR npm run theme:build
+vuepress build docs # OR yarn run docs:build OR npm run docs:build
 
 # Static server
-yarn run theme:serve # OR npm run theme:serve
+yarn run docs:serve # OR npm run docs:serve
 ```
 
 ## Configuration
