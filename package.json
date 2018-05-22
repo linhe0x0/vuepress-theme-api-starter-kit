@@ -2,10 +2,10 @@
   "name": "vuepress-theme-api-starter-kit",
   "version": "0.1.0",
   "description": "A starter kit for https://github.com/sqrthree/vuepress-theme-api",
+  "private": true,
   "directories": {
     "doc": "docs"
   },
-  "private": true,
   "scripts": {
     "theme:dev": "vuepress dev docs",
     "theme:build": "vuepress build docs",
