@@ -21,6 +21,7 @@ POST /api/auth/login
 | Name | Type | Description | Required |
 | :-: | :-: | :-: | :-: |
 | username | string | username | :heavy_check_mark: |
+| phone | string | phone | :heavy_minus_sign: |
 | password | string | password | :heavy_check_mark: |
 
 ### Response
