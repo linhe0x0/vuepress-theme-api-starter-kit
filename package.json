@@ -23,6 +23,6 @@
     "url": "https://github.com/sqrthree/vuepress-theme-api-starter-kit/issues"
   },
   "dependencies": {
-    "serve": "^6.5.7"
+    "serve": "^9.2.0"
   }
 }
