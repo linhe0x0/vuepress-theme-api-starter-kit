@@ -1,5 +1,7 @@
 # vuepress-theme-api-starter-kit
 
+[![](https://img.shields.io/badge/version-v0.1.1-brightgreen.svg)]()
+
 > A out-of-the-box starter kit for https://github.com/sqrthree/vuepress-theme-api.
 
 ![image](https://user-images.githubusercontent.com/8622362/40341249-9b6e8b9e-5db6-11e8-97f5-41cadc87ce51.png)
