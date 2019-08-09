@@ -1391,10 +1391,10 @@ aws4@^1.8.0:
   resolved "https://registry.npm.taobao.org/aws4/download/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
   integrity sha1-8OAD2cqef1nHpQiUXXsu+aBKVC8=
 
-axios@^0.18.0:
-  version "0.18.1"
-  resolved "https://registry.npm.taobao.org/axios/download/axios-0.18.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Faxios%2Fdownload%2Faxios-0.18.1.tgz#ff3f0de2e7b5d180e757ad98000f1081b87bcea3"
-  integrity sha1-/z8N4ue10YDnV62YAA8Qgbh7zqM=
+axios@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.npm.taobao.org/axios/download/axios-0.19.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Faxios%2Fdownload%2Faxios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
+  integrity sha1-jgm/89kSLhM/e4EByPvdAO09Krg=
   dependencies:
     follow-redirects "1.5.10"
     is-buffer "^2.0.2"
@@ -7230,12 +7230,12 @@ vuepress-plugin-container@^2.0.0:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress-theme-api@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.npm.taobao.org/vuepress-theme-api/download/vuepress-theme-api-0.2.1.tgz#f8864fd4c063c56c47c5061a757cc0144b671357"
-  integrity sha1-+IZP1MBjxWxHxQYadXzAFEtnE1c=
+vuepress-theme-api@^0.2.2:
+  version "0.2.2"
+  resolved "https://registry.npm.taobao.org/vuepress-theme-api/download/vuepress-theme-api-0.2.2.tgz#27c3e15ea916fe2f6d32b0d4c4ead0fab149ebfa"
+  integrity sha1-J8PhXqkW/i9tMrDUxOrQ+rFJ6/o=
   dependencies:
-    axios "^0.18.0"
+    axios "^0.19.0"
 
 vuepress@^1.0.3:
   version "1.0.3"
