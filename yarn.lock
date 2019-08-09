@@ -7230,10 +7230,10 @@ vuepress-plugin-container@^2.0.0:
   dependencies:
     markdown-it-container "^2.0.0"
 
-vuepress-theme-api@^0.2.2:
-  version "0.2.2"
-  resolved "https://registry.npm.taobao.org/vuepress-theme-api/download/vuepress-theme-api-0.2.2.tgz#27c3e15ea916fe2f6d32b0d4c4ead0fab149ebfa"
-  integrity sha1-J8PhXqkW/i9tMrDUxOrQ+rFJ6/o=
+vuepress-theme-api@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.npm.taobao.org/vuepress-theme-api/download/vuepress-theme-api-0.2.3.tgz#b61ecae3417e07e9f5f3e6732912d8fc4f2a0e7c"
+  integrity sha1-th7K40F+B+n18+ZzKRLY/E8qDnw=
   dependencies:
     axios "^0.19.0"
 
