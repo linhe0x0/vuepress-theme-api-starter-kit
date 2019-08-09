@@ -24,5 +24,8 @@
   },
   "dependencies": {
     "serve": "^9.2.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.3"
   }
 }
