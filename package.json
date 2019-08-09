@@ -26,6 +26,7 @@
     "serve": "^11.1.0"
   },
   "devDependencies": {
-    "vuepress": "^1.0.3"
+    "vuepress": "^1.0.3",
+    "vuepress-theme-api": "^0.2.1"
   }
 }
