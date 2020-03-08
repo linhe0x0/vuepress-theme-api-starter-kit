@@ -8,6 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev .",
+    "start": "npm run build && npm run serve",
     "build": "vuepress build .",
     "serve": "serve --single .vuepress/dist"
   },
