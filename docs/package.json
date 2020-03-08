@@ -7,9 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:serve": "serve --single docs/.vuepress/dist"
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "serve": "serve --single .vuepress/dist"
   },
   "repository": {
     "type": "git",
