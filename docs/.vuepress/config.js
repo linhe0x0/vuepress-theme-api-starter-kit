@@ -1,3 +1,3 @@
 module.exports = {
-  theme: 'api'
+  theme: 'api',
 }

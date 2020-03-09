@@ -27,6 +27,6 @@
   },
   "devDependencies": {
     "vuepress": "^1.0.3",
-    "vuepress-theme-api": "^0.2.3"
+    "vuepress-theme-api": "^1.0.0-beta.3"
   }
 }
