@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "A starter kit for https://github.com/sqrthree/vuepress-theme-api",
   "private": true,
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
     "dev": "vuepress dev .",
     "start": "npm run build && npm run serve",
