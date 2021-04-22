@@ -1,7 +1,6 @@
 {
-  "name": "vuepress-theme-api-starter-kit",
+  "name": "docs",
   "version": "0.1.0",
-  "description": "A starter kit for https://github.com/sqrthree/vuepress-theme-api",
   "private": true,
   "scripts": {
     "dev": "vuepress dev .",
@@ -9,21 +8,9 @@
     "build": "vuepress build .",
     "serve": "serve .vuepress/dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sqrthree/vuepress-theme-api-starter-kit.git"
-  },
-  "author": "sqrtthree <imsqrtthree@gmail.com>",
-  "homepage": "https://github.com/sqrthree/vuepress-theme-api-starter-kit#readme",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sqrthree/vuepress-theme-api-starter-kit/issues"
-  },
   "dependencies": {
-    "serve": "^11.1.0"
-  },
-  "devDependencies": {
     "vuepress": "^1.3.1",
-    "vuepress-theme-api": "^1.0.0-beta.6"
+    "vuepress-theme-api": "^1.0.0-beta.9",
+    "serve": "^11.1.0"
   }
 }
