@@ -30,23 +30,14 @@ $ yarn # OR npm install
 ### As Easy as 1, 2, 3
 
 ```bash
-# Install vuepress
-yarn global add vuepress # OR npm install -g vuepress
-
-# Install theme
-yarn global add vuepress-theme-api # OR npm install -g vuepress-theme-api
-
-# Create a markdown file and write something
-echo '# Hello, World.' > docs/Hello.md
-
 # Start writing
-vuepress dev docs # OR yarn run docs:dev OR npm run docs:dev
+vuepress dev docs # OR yarn run docs:dev OR npm run dev
 
 # Build to static files
-vuepress build docs # OR yarn run docs:build OR npm run docs:build
+vuepress build docs # OR yarn run docs:build OR npm run build
 
 # Static server
-yarn run docs:serve # OR npm run docs:serve
+yarn run serve # OR npm run serve
 ```
 
 ## Configuration
