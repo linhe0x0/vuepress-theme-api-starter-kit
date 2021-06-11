@@ -23,8 +23,8 @@ There are some global dependencies you need to set up.
 
 ```bash
 $ git clone https://github.com/sqrthree/vuepress-theme-api-starter-kit.git
-$ cp -r vuepress-theme-api-starter-kit/docs YOUR_DOC
-$ npm install
+$ cp -r vuepress-theme-api-starter-kit/docs your_doc_dir
+$ cd your_doc_dir && npm install
 ```
 
 ### As Easy as 1, 2, 3
