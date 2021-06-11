@@ -23,21 +23,21 @@ There are some global dependencies you need to set up.
 
 ```bash
 $ git clone https://github.com/sqrthree/vuepress-theme-api-starter-kit.git
-$ cd vuepress-theme-api-starter-kit
-$ yarn # OR npm install
+$ cp -r vuepress-theme-api-starter-kit/docs YOUR_DOC
+$ npm install
 ```
 
 ### As Easy as 1, 2, 3
 
 ```bash
 # Start writing
-vuepress dev docs # OR yarn run docs:dev OR npm run dev
+vuepress dev docs # OR npm run dev
 
 # Build to static files
-vuepress build docs # OR yarn run docs:build OR npm run build
+vuepress build docs # OR npm run build
 
 # Static server
-yarn run serve # OR npm run serve
+npm run serve
 ```
 
 ## Configuration
