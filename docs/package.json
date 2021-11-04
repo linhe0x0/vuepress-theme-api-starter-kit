@@ -9,7 +9,7 @@
     "serve": "serve .vuepress/dist"
   },
   "dependencies": {
-    "serve": "^12.0.0",
+    "serve": "^13.0.2",
     "vuepress": "^1.8.2",
     "vuepress-theme-api": "^1.0.1"
   }
